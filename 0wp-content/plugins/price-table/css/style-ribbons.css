@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.price-table-main .ribbons span {
+  box-shadow: 0 5px 9px -6px rgb(0, 0, 0);
+  display: block;
+  height: 24px;
+  left: -27px;
+  position: absolute;
+  top: 15px;
+  transform: rotate(-52deg);
+  width: 90px;
+}
+.price-table-main .ribbon-none{
+background:url("/wp-content/plugins/price-table/css/ribbons/none.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+display:none !important;
+}
+.price-table-main .ribbon-free{
+background:url("/wp-content/plugins/price-table/css/ribbons/free.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-save{
+background:url("/wp-content/plugins/price-table/css/ribbons/save.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-hot{
+background:url("/wp-content/plugins/price-table/css/ribbons/hot.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-pro{
+background:url("/wp-content/plugins/price-table/css/ribbons/pro.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-best{
+background:url("/wp-content/plugins/price-table/css/ribbons/best.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-gift{
+background:url("/wp-content/plugins/price-table/css/ribbons/gift.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-sale{
+background:url("/wp-content/plugins/price-table/css/ribbons/sale.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-new{
+background:url("/wp-content/plugins/price-table/css/ribbons/new.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-top{
+background:url("/wp-content/plugins/price-table/css/ribbons/top.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-fresh{
+background:url("/wp-content/plugins/price-table/css/ribbons/fresh.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_10{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-10.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_20{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-20.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_30{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-30.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_40{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-40.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_50{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-50.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_60{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-60.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_70{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-70.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_80{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-80.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_90{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-90.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.price-table-main .ribbon-dis_100{
+background:url("/wp-content/plugins/price-table/css/ribbons/dis-100.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}

@@ -1,0 +1,16 @@
+/* use this file just theme versions */
+
+
+	@media (max-width: 767px) {
+  	
+		.container-for-comments .comment img {
+		  margin-top: 0px;
+		}
+		.comments ul li span {
+			float: none;
+			margin-right: 0;
+		}
+		.comments ul li .who-comment {
+			margin-left: 0;
+		}
+	}
